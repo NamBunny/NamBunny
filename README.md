@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a first year mechanical engineering in HCMUT, whos is currently looking to hackathons and other competitions that embraces innovation and challenge. As of January 9th, I have a somewhat knowledge on coding, but haven't work on any real projects yet so I'll build up my portfolio.
 <!--
 **NamBunny/NamBunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
